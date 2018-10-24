@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">signup</string>
+    <string name="facebook_app_id">281607202456148</string>
+    <string name="fb_login_protocol_scheme">fb281607202456148</string>
+
+    <string name="FACEBOOK_APP_ID">281607202456148</string>
+    <string name="ACCOUNT_KIT_CLIENT_TOKEN">87638ce0bc1f5b2f94c14b9b1cb7fc00</string>
+    <string name="ak_login_protocol_scheme">ak281607202456148</string>
+</resources>
